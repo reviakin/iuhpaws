@@ -1,0 +1,12 @@
+{
+  "name": "iuhpaws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TheHesoyam",
+  "license": "MIT",
+  "dependencies": {
+    "@1inch/fusion-sdk": "^0.1.3",
+    "@openocean.finance/openocean-sdk": "^1.2.15",
+    "fastify": "^4.15.0"
+  }
+}
